@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<monodoc>
+    <node label="XHTML Provider Sample" name="xhtml-test" parent="libraries"/>
+    <source provider="xhtml" basefile="xhtml-test" path="xhtml-test" />
+</monodoc>
