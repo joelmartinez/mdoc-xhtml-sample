@@ -86,7 +86,7 @@ You can launch the documentation viewer by choosing [Xamarin Studio](https://www
 This sample has been set up to be easy to use and preview. 
 
 ```bash
-git clone https://github.com/joelmartinez/mdoc-xhtml-test.git
+git clone https://github.com/joelmartinez/mdoc-xhtml-sample.git
 cd mdoc-xhtml-test
 make install
 ```
